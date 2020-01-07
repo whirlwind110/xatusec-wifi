@@ -1,4 +1,14 @@
 ## 陕西省西安市雁塔区二环南路西段64号 凯德广场 L4
+
 坐标：北纬N34°13′49.13″ 东经E108°55′53.72″
-SSID：xatusec
+
+SSID:xatusec
+
 password:(null)
+
+## 陕西省西安市未央区学府中路2号 1公寓 2楼
+
+
+SSID:xatusec
+
+password:xatusec888
