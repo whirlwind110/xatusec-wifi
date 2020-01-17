@@ -12,3 +12,8 @@ password:(null)
 SSID:xatusec
 
 password:xatusec888
+
+## 陕西省西安市未央区学府中路2号 东门 益禾堂
+
+SSID:xatusec
+password:(null)
