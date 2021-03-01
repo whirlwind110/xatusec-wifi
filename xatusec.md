@@ -3,17 +3,30 @@
 坐标：北纬N34°13′49.13″ 东经E108°55′53.72″
 
 SSID:xatusec
-
 password:(null)
 
 ## 陕西省西安市未央区学府中路2号 1公寓 2楼
 
-
 SSID:xatusec
-
 password:xatusec888
 
 ## 陕西省西安市未央区学府中路2号 东门 益禾堂
 
 SSID:xatusec
 password:(null)
+
+## 陕西省西安市雁塔区高新一路18号 STARRY cafe
+
+SSID:xatusec
+password:(null)
+
+## 陕西省西安市小寨花旗国际
+
+SSID:xatusec
+password:(null)
+
+## 陕西省西安市高新区科技六路兰岛广场
+
+SSID:xatusec
+password:(null)
+ 
