@@ -20,7 +20,7 @@ password:(null)
 SSID:xatusec
 password:(null)
 
-## 陕西省西安市小寨花旗国际
+## 陕西省西安市小寨地铁站C口
 
 SSID:xatusec
 password:(null)
